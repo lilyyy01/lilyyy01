@@ -1,5 +1,5 @@
 
-Hi everyone, I'm Yuening, student at Vanderbilt University. I am seeking SDE New Grad Roles for 2025.
+Hi everyone, I'm Yuening, student at Vanderbilt University. I am seeking SDE Roles for 2025.
 Here're some fun facts about me:
 
 * MSCS@Vanderbilt University 💻
