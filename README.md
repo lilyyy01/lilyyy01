@@ -3,6 +3,7 @@ Hi everyone, I'm Yuening, student at Vanderbilt University. I am seeking SDE Rol
 Here're some fun facts about me:
 
 * MSCS@Vanderbilt University 💻
+* incoming quant phd at 🤫
 * Co-founder& Software Engineer at Sufeng Tonglian Technology Group Co. Shanghai 🦴
 * Research Analyst at BEIJING UNIVERSITY OF TECHNOLOGY 🧪
 * Writing✏️/Painting🖌️/Always exploring new things!🕶️
