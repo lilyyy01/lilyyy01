@@ -3,11 +3,12 @@ Hi everyone, I'm Yuening, student at Vanderbilt University. I am seeking SDE New
 Here're some fun facts about me:
 
 * MSCS@Vanderbilt University 💻
-* software engineer at Sufeng Tonglian Technology Group Co. Shanghai 🦴
-* research intern at BEIJING UNIVERSITY OF TECHNOLOGY 🧪
-* writing✏️/painting🖌️/reading/always exploring new things!🕶️
+* Co-founder& Software Engineer at Sufeng Tonglian Technology Group Co. Shanghai 🦴
+* Research Analyst at BEIJING UNIVERSITY OF TECHNOLOGY 🧪
+* Writing✏️/Painting🖌️/Always exploring new things!🕶️
 
 📄 Check out my publications:  
 - [ACE Conference Proceedings](https://www.ewadirect.com/proceedings/ace/article/view/17650)  
 - [AEI Journal Article](https://www.ewadirect.com/journal/aei/article/view/16046)
+
 If you're interested in me, feel free to contact!😆
