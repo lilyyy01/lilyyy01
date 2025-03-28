@@ -1,6 +1,5 @@
 
-Hi everyone, I'm Yuening, student at Vanderbilt University. I am seeking SDE Roles for 2025.
-Here're some fun facts about me:
+Hi everyone, I'm Yuening, student at Vanderbilt University. Here're some fun facts about me:
 
 * Background in Economics& Information Systems💡
 * MSCS@Vanderbilt University 💻
