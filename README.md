@@ -3,7 +3,7 @@ Hi everyone, I'm Yuening, student at Vanderbilt University. Here're some fun fac
 
 * Background in Economics& Information Systems💡
 * MSCS@Vanderbilt University 💻
-* incoming quant phd at 🤫
+* incoming phd at 🤫
 * Co-founder& Software Engineer at Sufeng Tonglian Technology Group Co. Shanghai 🦴
 * Research Analyst at BEIJING UNIVERSITY OF TECHNOLOGY 🧪
 * Writing✏️/Painting🖌️/Always exploring new things!🎈
